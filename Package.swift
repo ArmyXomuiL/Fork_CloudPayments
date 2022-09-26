@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "CloudPayments",
+    name: "Cloudpayments",
     platforms: [
         .iOS(.v11),
         ],
